@@ -1,2 +1,2 @@
-## This is an Machine Learning project made specifically to estimate price or fare of flights that ran in India in the year 2019
+## This is a Machine Learning project made specifically to estimate price or fare of flights that ran in India in the year 2019
 ## We will be using a Kaggle Dataset that has information for 10,000+ flights along with their price
